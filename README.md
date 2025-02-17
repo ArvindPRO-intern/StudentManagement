@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a C# .NET application designed to understand the concepts and build a Student Database to manage student information, including contact details, academic marks, and report-related data.  It utilizes [mention your database technology - e.g., Entity Framework Core with a SQL Server database] for data persistence.
+This project is a C# .NET application designed to understand the concepts of SOLID principles and build a Student Database to manage student information, including contact details, academic marks, and report-related data. 
 
 ## Features
 
