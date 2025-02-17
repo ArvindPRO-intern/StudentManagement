@@ -16,7 +16,7 @@ This project is a C# .NET application designed to understand the concepts of SOL
 
 *   **Programming Language:** C#
 *   **.NET Framework/Core:** [.NET 8]
-*   **Database:** [SQL ServerL]
+*   **Database:** [MSSQL Server]
 
 
 ## Getting Started
