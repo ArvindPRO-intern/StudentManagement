@@ -26,7 +26,7 @@ This project is a C# .NET application designed to understand the concepts and bu
     *   [Database server (MSSQL Server)]
 
 2.  **Installation:**
-    *   Clone the repository: `git clone [repository URL]`
+    *   Clone the repository: `git clone https://github.com/ArvindPRO-intern/StudentManagement.git`
     *   Open the solution in Visual Studio or your preferred IDE.
     *   Open PackageManageConsole add initial migration `add-migration init`
     *   [If using EF Core or similar:] Update the database `update-database` connection string in `appsettings.json` (or your configuration file).
